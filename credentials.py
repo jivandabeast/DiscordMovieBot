@@ -1,0 +1,3 @@
+traktclientid=''
+discordwebhook=''
+tmdbapikey=''
